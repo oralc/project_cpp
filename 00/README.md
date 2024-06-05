@@ -45,3 +45,6 @@ Linker’s job is to combine all of the object files and produce the desired out
 ## Building
 Building is often used to refer to the full process of converting source code files into an executable that can be run. 
 A specific executable produced as the result of building is sometimes called a build.
+
+>**g++ on the command line**
+- `g++ -o program_name program_name.cpp`
